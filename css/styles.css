@@ -26,3 +26,20 @@ header {
 footer a:hover {
 	opacity: .5;
 }
+
+.UBeUmainpage {
+font-family: scarlet-woodbold, sans-serif;
+font-style: normal;
+font-weight: 700;
+}
+.menubar {
+	font-family: essonnes-display, serif;
+	font-style: normal;
+	font-weight: 300;
+}
+.regulartext {
+	font-family: essonnes-display, serif;
+	font-style: normal;
+	font-weight: 300;
+	
+}
