@@ -1,17 +1,23 @@
 /* Importing a Google Font */
 
-@import url("https://use.typekit.net/wzk7juc.css"); 
+@import url('https://use.typekit.net/olx7igb.css');
+@import url("https://use.typekit.net/wzk7juc.css");
 
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
+	font-family: sunshine,sans-serif;
+font-weight: 400;
+font-style: normal;
 	background-color: #FFC65A;
 }
 
 /* Changing the background colour for the header */
 
 header {
+	font-family: teeshirt,sans-serif;
+font-weight: 400;
+font-style: normal;
 	background-color: #000000;
 }
 
@@ -19,6 +25,9 @@ header {
 
 .navbar {
 	background-color: #FFC65A;
+	font-family: teeshirt,sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 /* Effect on social media buttons */
@@ -32,5 +41,3 @@ footer a:hover {
 .card-text {
 	background-color: #ffffff; 
 }
-.title {
-	font-family: typeki
