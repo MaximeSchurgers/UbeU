@@ -41,10 +41,16 @@ footer a:hover {
 .card-text {
 	background-color: #ffffff; 
 }
+/* changes made in the headings */
 h1 {
    font-size: 1000%;
 	color: #FFC65A; 
 }
+h2 {
+   font-size: 700%;
+	color: #FFC65A; 
+}
+/*changes made in the cards and shadows */ 
 .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 30px 0 rgba(0,0,0,10);
