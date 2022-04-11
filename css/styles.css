@@ -1,6 +1,6 @@
 /* Importing a Google Font */
 
-@import url('https://use.typekit.net/olx7igb.css');
+@import url("https://use.typekit.net/wzk7juc.css"); 
 
 /* Changing the main font and background colour */
 
@@ -32,3 +32,5 @@ footer a:hover {
 .card-text {
 	background-color: #ffffff; 
 }
+.title {
+	font-family: typeki
