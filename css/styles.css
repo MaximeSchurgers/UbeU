@@ -26,3 +26,11 @@ header {
 footer a:hover {
 	opacity: .5;
 }
+.card-body {
+	background-color: #000000; 
+}
+.card-text {
+	background-color: #ffffff; 
+}
+.card-title {
+	background-color: 
