@@ -50,6 +50,14 @@ h2 {
    font-size: 700%;
 	color: #FFC65A; 
 }
+h3 {
+   font-size: 300%;
+	color: white; 
+}
+h5 {
+   font-size: 200%;
+	color: #FFC65A; 
+}
 /*changes made in the cards and shadows */ 
 .card {
   /* Add shadows to create the "card" effect */
