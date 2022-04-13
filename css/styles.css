@@ -58,7 +58,5 @@ h5 {
    font-size: 150%;
 	color: #FFC65A; 
 }
-row { margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 1000px;
-  margin-left: 1000px;}
+row { border-image-width: 50px
+}
