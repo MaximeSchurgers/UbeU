@@ -59,6 +59,12 @@ h5 {
 	color: #FFC65A; 
 }
 h6 {
-   font-size: 400%;
-	color: #00000; 
+	font-family: teeshirt,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 200%
+}
+h7 {
+   font-size: 100%;
+	color: black; 
 }
