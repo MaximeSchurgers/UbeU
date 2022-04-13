@@ -60,3 +60,5 @@ h5 {
 }
 row { border-image-width: 50px
 }
+
+row {border-image-width: auto}
