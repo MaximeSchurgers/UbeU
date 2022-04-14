@@ -54,10 +54,6 @@ h3 {
    font-size: 300%;
 	color: white; 
 }
-h4 {
-   font-size: 800%;
-	color: black; 
-}
 h5 {
    font-size: 150%;
 	color: #FFC65A; 
@@ -80,7 +76,10 @@ h9 {
    font-size: 300%;
 	color: black; 
 }
-
+h10 {
+   font-size: 800%;
+	color: black; 
+}
 
 .content {
   text-align: center;
